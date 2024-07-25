@@ -1,0 +1,37 @@
+/* CSS code linked */
+
+body{
+    font-family: Arial;
+}
+  
+/* After defining this function in thr css file  
+we can use it in our console or javascript file
+by using the function classList.add()*/
+.lavender{
+    color: rgb(124, 124, 244);
+}
+
+#mainImg {
+    width: 35%;
+}
+  
+.box {
+    border: 0.25px solid black;
+    background-color: lightgray;
+    width: 200px;
+    padding: 1rem;
+}
+  
+.boxLink {
+    text-decoration: none;
+}
+  
+.oldImg {
+    height: 200px;
+    width: 200px;
+    margin-right: 1rem;
+}
+  
+#description {
+    background-color: antiquewhite;
+}

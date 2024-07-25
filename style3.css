@@ -1,0 +1,24 @@
+/* CSS code linked */
+
+body{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h2{
+    text-decoration: underline;
+}
+div{
+    height: 100px;
+    width: 500px;
+    border: 2px solid black;
+    align-items: center;
+    align-content: center;
+    margin: auto;
+}
+button{
+    background-color: aliceblue;
+    color: black;
+    padding: 5px;
+    font-weight: 700;
+    border-radius: 5px;
+}
